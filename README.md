@@ -13,7 +13,7 @@
  ### Languages and Tools
  <div align="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    title="C" alt="C"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"    title="HTML" alt="HTML"  width="30px" style="padding-right: 1%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter.svg"    title="HTML" alt="HTML"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"   title="Js" alt="Js"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"    title="CSS" alt="CSS"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"    title="Figma" alt="Figma"  width="30px" style="padding-right: 1%;"/>
