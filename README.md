@@ -12,21 +12,17 @@
 
  ### Languages and Tools
  <div align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"    title="C" alt="C"  width="30px" style="padding-right: 1%;" />
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter.svg"    title="HTML" alt="HTML"  width="30px" style="padding-right: 1%;" />](https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/dart.svg)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"   title="Js" alt="Js"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"    title="CSS" alt="CSS"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"    title="Figma" alt="Figma"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"   title="Git" alt="Git"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"    title="Ubuntu" alt="Ubuntu"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"    title="MongoDB" alt="MongoDB"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"    title="MySQL" alt="MySQL"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"   title="NodeJS" alt="NodeJS"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"   title="Photoshop" alt="Photoshop"  width="30px" style="padding-right: 1%;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"    title="PHP" alt="PHP"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"    title="React" alt="React"  width="30px" style="padding-right: 1%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"   title="Xd" alt="Xd"  width="30px" style="padding-right: 1%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"    title="Bootstrap" alt="Bootstrap"  width="30px" style="padding-right: 1%;"/>
+
 
 
 
